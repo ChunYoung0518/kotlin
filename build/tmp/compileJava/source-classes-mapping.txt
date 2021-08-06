@@ -1,0 +1,6 @@
+com/daniel/demo/KotlinInterop.java
+ com.daniel.demo.KotlinInterop
+com/daniel/demo/AccessKotlinFun.java
+ com.daniel.demo.AccessKotlinFun
+com/daniel/demo/Animal.java
+ com.daniel.demo.Animal
